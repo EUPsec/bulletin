@@ -4,9 +4,8 @@ Bulletin for Edinboro University of Pennsylvania's security/CTF team. Includes n
 
 News
 ====
-**2/15/19:** First official meeting; github and email created
-
-**2/22/19:** Looked at SQL injection, remote command execution, Metasploitable2/DVWA
+**2/15/19:** First official meeting; github and email created  
+**2/22/19:** Looked at SQL injection, remote command execution, Metasploitable2/DVWA  
 
 Resources
 =========
